@@ -1,3 +1,3 @@
-# CNN-Cancer-Detection-Kaggle-Mini-Project
+# CNN-Cancer-Detection
 
 Data from: [https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview](url)
